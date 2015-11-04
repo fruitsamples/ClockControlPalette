@@ -1,0 +1,8 @@
+{
+    Actions = {
+    };
+    Outlets = {
+    };
+    ClassName = ClockControl; 
+    SuperClass = NSControl; 
+}
